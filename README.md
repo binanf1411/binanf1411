@@ -6,7 +6,7 @@
 
 ### When I code, I rely on
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -32,4 +32,4 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 ### Bintang's GitHub Stats
 
-img src="https://github-readme-stats-sigma-five.vercel.app/api?username=binanf1411&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=binanf1411&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
