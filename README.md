@@ -1,11 +1,23 @@
-## Hi there 👋
-
 <div align="center">
 
 # `b!ntang.exe/`
 
-<!-- GAMBAR METRICS UTAMA (Generated SVG) -->
-<img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=Asia%2FJakarta&theme=dark" width="100%" alt="GitHub Metrics" />
+---
+
+### 📊 // GitHub Activity & Metrics
+
+<!-- GRAFIK 1: Commit Activity & Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=binanf1411&show_icons=true&theme=dark&hide_border=true&title_color=00ff66&text_color=ffffff&bg_color=0d1117&icon_color=00ff66" width="100%" alt="GitHub Stats" />
+
+<br/><br/>
+
+<!-- GRAFIK 2: Most Used Languages (Bahasa Paling Sering Digunakan) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binanf1411&layout=compact&theme=dark&hide_border=true&title_color=00ff66&text_color=ffffff&bg_color=0d1117&langs_count=8" width="100%" alt="Most Used Languages" />
+
+<br/><br/>
+
+<!-- GRAFIK 3: Commit Streak per Day -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=binanf1411&theme=dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" width="100%" alt="GitHub Streak" />
 
 ---
 
@@ -20,10 +32,5 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
-
----
-
-<!-- GRAFIK TAMBAHAN BILA DIINGINKAN -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=true&layout=compact" width="100%" alt="Most Used Languages" />
 
 </div>
