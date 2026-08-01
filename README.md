@@ -32,4 +32,4 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 ### Bintang's GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=binanf1411&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+img src="https://github-readme-stats-sigma-five.vercel.app/api?username=binanf1411&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
