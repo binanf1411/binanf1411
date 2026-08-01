@@ -26,6 +26,10 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 <a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+### My Contribution Graph
+
+[![binanf1411's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=binanf1411&theme=react-dark&bg_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### My GitHub contributions summary
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=binanf1411&theme=dark&background=0d1117&border=0d1117&stroke=ff2a55&ring=ff2a55&fire=ff2a55&currStreakNum=ff2a55&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
