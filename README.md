@@ -1,6 +1,9 @@
 # 👋 Hi there, I'm b!ntang.exe/
 
 ---
+<p align="center">
+  <img src="me.jpeg" alt="My Photo" width="150" style="border-radius: 50%;" />
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=binanf1411&color=ff2a55&style=flat-square)
 
