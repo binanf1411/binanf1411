@@ -30,10 +30,4 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=binanf1411&theme=dark&background=0d1117&border=0d1117&stroke=ff2a55&ring=ff2a55&fire=ff2a55&currStreakNum=ff2a55&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 
-### Bintang's GitHub Stats
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=binanf1411&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
-### 🐍 Contribution Snake
-
 <img src="https://raw.githubusercontent.com/binanf1411/binanf1411/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
