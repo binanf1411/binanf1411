@@ -22,13 +22,9 @@
 * *Pushing Your First App to GitHub: A Step-by-Step Guide*
 * *The Ultimate Checklist for Cyber Security & Logic Building*
 
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? ✌️✌️
+If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea?
 
 <a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-### My Contribution Graph
-
-[![binanf1411's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=binanf1411&theme=react-dark&bg_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### My GitHub contributions summary
 
